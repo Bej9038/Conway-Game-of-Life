@@ -5,7 +5,7 @@
 #	Runs Conway's Game of Life With Age for CSCI250 project 1
 #
 # INPUT:
-# 	The baord size, the number of generations to run,
+# 	The board size, the number of generations to run,
 #	the number of starting cells, and the starting cell
 #	locations
 #
